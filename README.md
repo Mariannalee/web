@@ -1,5 +1,11 @@
 # 113-1**網際網路概論**
 
+授課教師：蔡芸琤老師
+
+姓名：李孟潔
+
+系級：科技系116
+
 - [x] **Homework1個人網頁設計:** https://mariannalee.github.io/web/
 
 - [ ] **Homework2表單設計:** 
