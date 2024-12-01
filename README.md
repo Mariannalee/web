@@ -8,7 +8,7 @@
 
 - [x] **Homework1個人網頁設計:** https://mariannalee.github.io/web/
 
-- [ ] **Homework2表單設計:** 
+- [x] **Homework2表單設計:** 
       
 
 
@@ -20,4 +20,6 @@
 
 - [ ] **Homework3:**
     專題發想：https://www.canva.com/design/DAGU1-nB9JI/rCjkkUR3i0fjkoNYgkhkVg/edit?utm_content=DAGU1-nB9JI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+- [ ] **Homework4:**
 
