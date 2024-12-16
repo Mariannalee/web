@@ -23,6 +23,11 @@
 
     程式相關影片：https://youtu.be/lUGA8T1bOS0
 
-- [x] **Homework4:**render部屬的網址：https://react-1-jkeu.onrender.com/
-
-       原始碼:https://github.com/Mariannalee/react
+- [x] **Homework4:**
+        1.render部屬的網址：https://react-1-jkeu.onrender.com/
+        2.原始碼:https://github.com/Mariannalee/react
+- [x] **期末專題:**
+      成員：邱鈺婷、李孟潔、李東璟
+      成品連結：https://mocuacqu.github.io/1131Lottery/realtime-lottery.html
+      影片講解：https://www.youtube.com/watch?v=E1m29F7tk0Y
+      原始碼：https://github.com/MocuAcqu/tharder_test
