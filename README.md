@@ -18,8 +18,10 @@
 
     表單原始碼：https://github.com/Mariannalee/web1/tree/master
 
-- [ ] **Homework3:**
+- [x] **Homework3:**
     專題發想：https://www.canva.com/design/DAGU1-nB9JI/rCjkkUR3i0fjkoNYgkhkVg/edit?utm_content=DAGU1-nB9JI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+    程式相關影片：https://youtu.be/lUGA8T1bOS0
 
 - [ ] **Homework4:**
 
