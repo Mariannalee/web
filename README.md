@@ -12,16 +12,16 @@
       
 
 
-    表單製作過程影片：https://www.youtube.com/watch?v=QvjBYCOdTuA&t=7s
+表單製作過程影片：https://www.youtube.com/watch?v=QvjBYCOdTuA&t=7s
 
-    ChatGPT聊天過程：https://chatgpt.com/share/67165ea7-6cdc-800f-b4d4-345c7516681e
+ChatGPT聊天過程：https://chatgpt.com/share/67165ea7-6cdc-800f-b4d4-345c7516681e
 
-    表單原始碼：https://github.com/Mariannalee/web1/tree/master
+表單原始碼：https://github.com/Mariannalee/web1/tree/master
 
 - [x] **Homework3:**
-    專題發想：https://www.canva.com/design/DAGU1-nB9JI/rCjkkUR3i0fjkoNYgkhkVg/edit?utm_content=DAGU1-nB9JI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+專題發想：https://www.canva.com/design/DAGU1-nB9JI/rCjkkUR3i0fjkoNYgkhkVg/edit?utm_content=DAGU1-nB9JI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-    程式相關影片：https://youtu.be/lUGA8T1bOS0
+程式相關影片：https://youtu.be/lUGA8T1bOS0
 
 - [x] **Homework4:**
       
