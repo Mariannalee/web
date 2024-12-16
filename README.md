@@ -29,7 +29,7 @@
       
 2.原始碼:https://github.com/Mariannalee/react
 - [x] **期末專題:**
-      成員：邱鈺婷、李孟潔、李東璟
+      成員：邱鈺婷、李孟潔、李東璟 👋
 
 1.成品連結：https://mocuacqu.github.io/1131Lottery/realtime-lottery.html
       
